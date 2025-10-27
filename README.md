@@ -81,7 +81,7 @@ npm run dev
 
 ## 📁 项目结构
 
-
+```
 webrtc-demo/
 ├── server/
 │   ├── package.json
@@ -100,7 +100,7 @@ webrtc-demo/
 │   │       └── VideoChat.jsx # 视频聊天组件
 │   └── node_modules/
 └── README.md
-
+```
 
 ## 🔧 配置说明
 
